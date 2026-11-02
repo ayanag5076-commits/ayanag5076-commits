@@ -28,10 +28,10 @@ fun_fact: I build the tools I wished I had in HR
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🛡️ **[prbot](https://github.com/ayanag5076-commits/prbot)** | Reviews a pull request, writes the fix, and verifies it in a locked-down Docker sandbox before posting. Self-corrects on failed tests. On the GitHub Marketplace. | Python · LangGraph · OpenAI · Docker · Pytest |
-| 💬 **[hr-policy-assistant](https://github.com/ayanag5076-commits/hr-policy-assistant)** | Employees ask HR questions by chat or text; answers cite the handbook section and sensitive issues go straight to a human. | Python · LLMs · RAG |
-| 📡 **[live-api-dashboard](https://github.com/ayanag5076-commits/live-api-dashboard)** | Async monitor for API uptime and latency on a live-updating dashboard. | Python · asyncio |
-| ✈️ **[when-should-you-fly](https://github.com/ayanag5076-commits/when-should-you-fly)** | Interactive flight-delay analysis to pick the most on-time days and airlines. | HTML · Data viz |
+|  **[prbot](https://github.com/ayanag5076-commits/prbot)** | Reviews a pull request, writes the fix, and verifies it in a locked-down Docker sandbox before posting. Self-corrects on failed tests. On the GitHub Marketplace. | Python · LangGraph · OpenAI · Docker · Pytest |
+|  **[hr-policy-assistant](https://github.com/ayanag5076-commits/hr-policy-assistant)** | Employees ask HR questions by chat or text; answers cite the handbook section and sensitive issues go straight to a human. | Python · LLMs · RAG |
+|  **[live-api-dashboard](https://github.com/ayanag5076-commits/live-api-dashboard)** | Async monitor for API uptime and latency on a live-updating dashboard. | Python · asyncio |
+|  **[when-should-you-fly](https://github.com/ayanag5076-commits/when-should-you-fly)** | Interactive flight-delay analysis to pick the most on-time days and airlines. | HTML · Data viz |
 
 ### `> tech_stack`
 
